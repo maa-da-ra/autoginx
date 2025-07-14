@@ -14,7 +14,3 @@ usage:
 - `chmod +x autoginx.py`
 - `python3 autoginx.py --domain [YOUR_DOMAIN] --pubIP [YOUR_PUBLIC_IP]`
 - enjoy! 
-
-![[Pasted image 20250714113138.png]]
-
-![[Pasted image 20250714113343.png]]
